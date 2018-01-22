@@ -1,2 +1,2 @@
-# Major Project: Real-time-Human Posture Recognition
+# Major Project: Real-time Human Posture Recognition
 Its an ongoing project based research.

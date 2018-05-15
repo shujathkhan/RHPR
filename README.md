@@ -2,6 +2,7 @@
 Its an ongoing project based research.
 
 ## Overview
+<span style='text-align: justify'>
 Human body comprises of a total 206 bones, out of
 which a lot of them play a major role in maintaining our posture.
 The spinal cord of the human body serves as the integral part to
@@ -22,4 +23,4 @@ have used GANs, Generative Adversarial Networks, as it uses a
 generator network for generating the correct and incorrect data
 and dynamically classifying them. We tested the entire working
 model using a real-time video feed of various environments, the
-model proves to be highly accurate.
+model proves to be highly accurate.</span>
